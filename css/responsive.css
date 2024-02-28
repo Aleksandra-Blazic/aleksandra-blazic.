@@ -1,0 +1,311 @@
+@media screen and (max-width: 1276px){
+	ul li{
+		margin:0px 50px;
+	}
+	#meni li a{
+		margin-left:10px;
+	}
+	#logo{
+		margin-left:80px;
+	}
+	#services{
+		height:400px;
+	}
+	.tautor p{
+		font-size:20px;
+	}
+	.kartice{
+		height:250px;
+	}
+	.kartica p{
+		display:none;
+	}
+	.material-symbols-outlined{
+		margin:60px 85px;
+	}
+}
+@media screen and (max-width: 1115px) {
+	ul li{
+		margin:0px 40px;
+	}
+	#logo{
+		margin-left:60px;
+	}
+	.tautor p{
+		font-size:18px;
+	}
+	#slika img{
+		width:300px;
+	}
+	.material-symbols-outlined{
+		margin:60px 75px;
+	}
+	.projekat h4{
+		font-size:18px;
+	}
+	#about {
+		height:500px;
+	}
+}
+@media screen and (max-width: 1031px) {
+	.material-symbols-outlined{
+		font-size:60px;
+	}	
+	.naslov{
+		margin-top:20px;
+	}
+	.naslov h2{
+		font-size:35px;
+	}
+}
+@media screen and (max-width: 997px) {
+	.material-symbols-outlined{
+		font-size:60px;
+	}	
+	.naslov{
+		margin-top:20px;
+	}
+	.naslov h2{
+		font-size:35px;
+	}
+	#okvir{
+		flex-direction:column;
+	}
+	#contact{
+		height:550px;
+	}
+	#info p{
+		font-size:15px;
+	}
+	#info{
+		width:70%;
+		margin:0px auto;
+		padding:10px;
+	}
+	#forma{
+		width:70%;
+		margin:25px auto;
+		padding:10px;
+	}
+	#ikonica{
+		font-size:25px;
+		top:8px;
+	}
+	footer p{
+		font-size:15px;
+	}
+	.projekat{
+		width:49%;
+	}
+	.projekat h4{
+		font-size:16px;
+	}
+	.material-symbols-outlined{
+		margin:60px 69px;
+	}
+	#slika img {
+		width:250px;
+	}
+	#about {
+		height:450px;
+	}
+	ul li{
+		margin:0px 30px;
+	}
+	#pozadinsakslika{
+		height:500px;
+	}
+	#tekst{
+		height:500px;
+	}
+	#tekst h1{
+		font-size:30px;
+	}
+}
+@media screen and (max-width: 885px) {
+	ul li{
+		margin:0px 20px;
+	}
+	.tautor p{
+		font-size:16px;
+	}
+	.material-symbols-outlined{
+		margin:60px 58px;
+	}
+	#logo{
+		margin-left:50px;
+	}
+	#pozadinsakslika{
+		background-image: url(../img/1.jpg);
+	}
+}
+@media screen and (max-width: 736px) {
+	ul li{
+		margin:0px 10px;
+	}
+	#logo{
+		margin-left:40px;
+	}
+	.material-symbols-outlined{
+		margin:60px 53px;
+		font-size:40px;
+	}
+	.kartica h2{
+		font-size:22px;
+	}
+	.projekti{
+		width:80%;
+		flex-direction:column;
+		height:auto;
+		align-content:center;
+	}
+	.projekat{
+		width:70%;
+		border:0px;
+		margin-bottom:20px;
+	}
+	#projects{
+		height:820px;
+	}
+}
+@media screen and (max-width: 619px) {
+	#forma{
+		width:90%;
+	}
+	.kartice{
+		flex-direction:column;
+		align-items:center;
+		margin-top:30px;
+	}
+	.material-symbols-outlined{
+		margin:30px 41px;
+	}
+	.kartica h2{
+		font-size:18px;
+		margin-bottom:10px;
+	}
+	#services{
+		height:550px;
+	}
+	.kartica{
+		margin:5px;
+	}
+	#slika img{
+		width:200px;
+	}
+	.tautor p{
+		font-size:15px;
+		margin-top:50px;
+	}
+	ul li{
+		margin:0px 0px;
+	}
+	#logo{
+		margin-left:10px;
+	}
+	nav {
+		width: 70%;
+	}
+	#about{
+		height:350px;
+	}
+	#pozadinsakslika{
+		height:400px;
+		background-attachment:inherit;
+	}
+	#tekst{
+		height:400px;
+	}
+	#tekst h1 {
+		font-size:20px;
+		padding-top:160px;
+	}
+}
+@media screen and (max-width: 533px) {
+	#okvir1 {
+		flex-direction:column;
+		align-items: center
+	}
+	.tautor p {
+		margin-top: 5px;
+	}
+	#about {
+		height: 450px;
+	}
+	.material-symbols-outlined {
+		margin: 30px 32px;
+	}
+	#projects {
+		height: 700px;
+	}
+	.projekti {
+		width: 90%;
+		margin-top:0px;
+	}
+	#forma {
+		width: 100%;
+	}
+	#info {
+		width: 100%;
+	}
+}
+@media screen and (max-width: 430px) {
+	footer p {
+		font-size: 12px;
+	}
+	.okvir {
+		width: 90%;
+	}
+	#projects {
+		height: 630px;
+	}
+	.projekat h4 {
+		font-size: 14px;
+	}
+	.kartica {
+		width: 72%;
+	}
+	.material-symbols-outlined {
+		margin: 30px 86px;
+	}
+	header {
+		height: 60px;
+	}
+	#logo {
+		margin-left: 0px;
+	}
+	#logo img {
+		height: 60px;
+	}
+	nav {
+		width: 75%;
+	}
+	#meni{
+		padding-top:14px;
+	}
+	#meni li a {
+		font-size:13px;
+	}
+	#pozadinsakslika {
+		height: 300px;
+	}
+	#tekst {
+		height: 300px;
+	}
+	#tekst h1 {
+		font-size: 18px;
+		padding-top: 120px;
+	}
+	#tekst p {
+		font-size: 15px;
+	}
+	#slika img {
+		width: 150px;
+	}
+	.tautor p {
+		font-size: 13px;
+	}
+	#about {
+		height: 350px;
+	}
+}
